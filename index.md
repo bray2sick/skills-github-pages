@@ -1,7 +1,6 @@
 ---
 title: Lorem ipsum
 ---
-# Lorem ipsum
 
 - [About](#about)
 - [Skills](#skills)
